@@ -1,2 +1,5 @@
 # Selenium-Security-Sramework
-Automated security testing framework for authentication systems with vulnerability detection and compliance reporting capabilities.
+Python, Selenium WebDriver, GitHub
+- Built automated authentication security testing framework validating multiple attack vectors
+- Implemented vulnerability detection for SQL injection, XSS, and brute force attacks
+- Created automated screenshot capture for security testing documentation
